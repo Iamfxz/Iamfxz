@@ -1,7 +1,8 @@
 ### 欢迎来到方向臻的github主页 👋
-[![FXZ's github stats](https://github-readme-stats.vercel.app/api?username=Iamfxz&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![FXZ's github stats](https://github-readme-stats.vercel.app/api?username=Iamfxz&count_private=true&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamfxz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamfxz&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
