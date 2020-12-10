@@ -2,9 +2,7 @@
 
 ![QQ Badge](https://img.shields.io/badge/-QQ:273332683-darkred?style=plastic&logo=QQ&logoColor=white)
 ![Wechat Badge](https://img.shields.io/badge/-q273332683-white?style=plastic&logo=wechat)
-
 <br />
-
 [![Facebook Badge](https://img.shields.io/badge/-xiangzhen%20fang-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/xiangzhen.fang.3/)](https://www.facebook.com/xiangzhen.fang.3/)
 [![Gmail Badge](https://img.shields.io/badge/-abc273332683@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:abc273332683@gmail.com)](mailto:abc273332683@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-xiangzhen%20Fang-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC6htrswyFCAXSdfdpOqjsjQ)](https://www.youtube.com/channel/UC6htrswyFCAXSdfdpOqjsjQ/)
